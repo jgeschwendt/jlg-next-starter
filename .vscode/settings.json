@@ -1,0 +1,9 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "javascript.suggestionActions.enabled": false,
+  "prettier.requireConfig": true,
+}
